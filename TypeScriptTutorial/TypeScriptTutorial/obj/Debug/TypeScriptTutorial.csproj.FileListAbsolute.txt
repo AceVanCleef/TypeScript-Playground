@@ -1,0 +1,5 @@
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\bin\TypeScriptHTMLApp1.dll
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\bin\TypeScriptHTMLApp1.pdb
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\obj\Debug\TypeScriptTutorial.csprojResolveAssemblyReference.cache
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\obj\Debug\TypeScriptHTMLApp1.pdb

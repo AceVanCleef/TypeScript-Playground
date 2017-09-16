@@ -1,0 +1,16 @@
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\app.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\app.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Array.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Array.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Classes.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Classes.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Functions.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Functions.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Interface.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\Interface.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\InterfacesReloaded.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\InterfacesReloaded.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\letVSvar.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\letVSvar.js.map
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\variables.js
+C:\Files\Programming_Workspace\ip5\typescript-playground\TypeScriptTutorial\TypeScriptTutorial\variables.js.map
